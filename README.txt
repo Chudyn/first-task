@@ -14,4 +14,4 @@ I am on Sololearn as this is where my journey on learning python began and prese
 
 I am open to more learning and development to assit me build my career as a Human resource professional with a passion for technology.
 
-import numpy as 
+
